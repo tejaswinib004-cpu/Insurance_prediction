@@ -1,4 +1,4 @@
-# Insurance_prediction
+# Insurance_Prediction
 # Project Overview
 
 The Insurance Prediction System is a machine learning project that predicts the insurance premium amount based on customer information. The model analyzes important factors such as age, annual income, policy term, and sum assured to estimate the expected premium.
